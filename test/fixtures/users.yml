@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  name: MyString
+  pwd: MyString
+  gender: 1
+  birthday: 2018-10-22 17:40:44
+
+two:
+  id: 1
+  name: MyString
+  pwd: MyString
+  gender: 1
+  birthday: 2018-10-22 17:40:44
